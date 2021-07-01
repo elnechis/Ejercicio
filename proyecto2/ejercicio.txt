@@ -1,0 +1,4 @@
+Estamos tranajando para crear buenas pruebas 
+con el fin de crear archivos 
+que pueda generar cambios y control de los mismos
+durante el diplomado de desrrollo en full stack
